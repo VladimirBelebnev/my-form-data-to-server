@@ -2,13 +2,12 @@
 
 ### Settings
 
-formSelector
+formSelector – 'form selector'
 
-inputSelector
+inputSelector – 'input selector'
 
-phoneInputSelector
+phoneInputSelector – 'To allow the user to enter only numbers into this input (for example: input[user_phone]'
 
-statusClass
+statusClass – 'the class that the appearing message should have (loading, something went wrong or successfully sent) (for example: .status)'
 
-serverUrl
-
+serverUrl – where the data is sent (for example: './server.php')
