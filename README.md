@@ -1,6 +1,6 @@
 # my-form_server
 
-### Settings
+### Settings:
 
 **formSelector** – 'form selector'
 
